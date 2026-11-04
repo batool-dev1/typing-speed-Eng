@@ -7,7 +7,7 @@
 
 **VelociText** is a high-performance, lightweight web application designed to measure and improve Arabic touch-typing proficiency. It evaluates user typing performance in real-time, calculating Words Per Minute (WPM) and accuracy metrics under timed constraints.
 
-🌐 **Live Preview:** [https://batool-dev1.github.io/typing-speed-ar/](https://batool-dev1.github.io/typing-speed-ar/)
+🌐 **Live Preview:** [https://batool-dev1.github.io/typing-speed-ar/](https://batool-dev1.github.io/typing-speed-Eng/)
 
 ---
 
